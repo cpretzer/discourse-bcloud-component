@@ -1,0 +1,8 @@
+{
+    "name": "Buoyant Discourse Component",
+    "component": true,
+    "license_url": "https://github.com/cpretzer/discourse-bcloud-component/blob/main/LICENSE",
+    "about_url": "https://github.com/cpretzer/discourse-bcloud-component/blob/main/README.md",
+    "authors": "cpretzer",
+    "theme_version": "0.1.0"
+  }
